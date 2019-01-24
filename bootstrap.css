@@ -1,0 +1,75 @@
+body{
+  background-color: white;
+  font-family: 'Cantora One', sans-serif;
+}
+.navbar{
+  font-size: 120%;
+  padding: 5px 5px 5px 5px;
+  color: white;
+}
+
+.bg-custom{
+  background-color: black;
+}
+.btn-outline-custom{
+  color: red;
+}
+#btn{
+  color: white;
+  background-color: red;
+  /* x-axis distance, y-axis distance, blur radius, colour */
+  text-shadow: 1px 1px 0 #000;
+}
+
+.jumbotron{
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+  text-align: left;
+  color: white;
+  background: url(RunningImg.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+#jtronp{
+  font-size: 160%;
+}
+
+.display-4{
+  font-size: 260%;
+  margin-bottom: 20px;
+}
+
+#heads{
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  border-bottom: 1px solid #e2e2de;
+  text-shadow: 1px 1px 0 #000;
+}
+
+#subscribe{
+  color: black;
+  background-color: yellow;
+}
+
+.card{
+  margin-bottom: 20px;
+}
+
+.card{
+  color: white;
+  background-color: black;
+}
+
+.card-text{
+  font-size: 90%;
+}
+
+#card-link{
+  color: yellow;
+}
